@@ -1,0 +1,5 @@
+let i;
+
+function hesapla(){
+    
+}
